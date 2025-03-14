@@ -1,0 +1,1 @@
+DOOM1.exe -iwad doom.wad
